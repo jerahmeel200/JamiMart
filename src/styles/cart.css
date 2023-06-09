@@ -1,0 +1,26 @@
+.table tr td img {
+  width: 80px !important;
+  height: 80px !important;
+  object-fit: cover;
+}
+
+td i {
+  cursor: pointer;
+}
+
+td,
+th {
+  color: var(--primary-color);
+}
+
+.tAmount {
+  color: var(--primary-color);
+}
+.buy__btn {
+  background: var(--primary-color);
+  color: #fff;
+}
+.shopping__btn button {
+  background: var(--primary-color);
+  color: #fff;
+}
